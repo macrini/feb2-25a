@@ -1,0 +1,81 @@
+{
+  "version": "1.6.6",
+  "generatedAt": "2025-02-02T17:22:25.560Z",
+  "files": [
+    {
+      "name": "main.a5fdd8419f0a2a1a9f24.js",
+      "size": 205790,
+      "hash": "d743e705631c6cdf2f1d"
+    },
+    {
+      "name": "remoteEntry.js",
+      "size": 5906,
+      "hash": "d743e705631c6cdf2f1d"
+    },
+    {
+      "name": "main.c0c25a635f47daedabe8.js",
+      "size": 6596,
+      "hash": "d743e705631c6cdf2f1d"
+    },
+    {
+      "name": "main.6b63eb21326a4278ceba.js",
+      "size": 133174,
+      "hash": "d743e705631c6cdf2f1d"
+    },
+    {
+      "name": "main.27b1595bd1c4f4f30a2e.js",
+      "size": 55743,
+      "hash": "d743e705631c6cdf2f1d"
+    },
+    {
+      "name": "main.a0c4e741758f20be00c0.js",
+      "size": 151344,
+      "hash": "d743e705631c6cdf2f1d"
+    },
+    {
+      "name": "assets/List/small.webp",
+      "size": 105530,
+      "hash": "d743e705631c6cdf2f1d"
+    },
+    {
+      "name": "assets/Section/centered_tight.webp",
+      "size": 68918,
+      "hash": "d743e705631c6cdf2f1d"
+    },
+    {
+      "name": "assets/Section/right_medium.webp",
+      "size": 105530,
+      "hash": "d743e705631c6cdf2f1d"
+    },
+    {
+      "name": "assets/Section/left_loose.webp",
+      "size": 32780,
+      "hash": "d743e705631c6cdf2f1d"
+    },
+    {
+      "name": "schema.json",
+      "size": 6224,
+      "hash": "d743e705631c6cdf2f1d"
+    },
+    {
+      "name": "main.a5fdd8419f0a2a1a9f24.js.LICENSE.txt",
+      "size": 249,
+      "hash": "d743e705631c6cdf2f1d"
+    },
+    {
+      "name": "main.6b63eb21326a4278ceba.js.LICENSE.txt",
+      "size": 483,
+      "hash": "d743e705631c6cdf2f1d"
+    },
+    {
+      "name": "main.c0c25a635f47daedabe8.js.LICENSE.txt",
+      "size": 237,
+      "hash": "d743e705631c6cdf2f1d"
+    },
+    {
+      "name": "main.a0c4e741758f20be00c0.js.LICENSE.txt",
+      "size": 249,
+      "hash": "d743e705631c6cdf2f1d"
+    }
+  ]
+}
